@@ -1,5 +1,7 @@
 #!/bin/bash
 # Author: Nguyen Khac Trung Kien
+counter=1
+
 mkdir -p frames-bad-apple
 ffmpeg -i bad_apple.mp4 -vf fps=30 frames-bad-apple/out%04d.jpg
 
