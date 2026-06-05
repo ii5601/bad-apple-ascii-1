@@ -1,3 +1,6 @@
+>[!WARNING]
+> I'm not owner of this project. [Original creator](https://github.com/trung-kieen/bad-apple-ascii)
+
 # Bad Apple For Terminal
 
 This repository contains a set of scripts to convert the "Bad Apple" video into ASCII art representation and display it on terminal.
